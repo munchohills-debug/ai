@@ -1,0 +1,5 @@
+{
+  "name": "Flow Credit Adder",
+  "description": "A web application to manage and add Flow Credits to your account after signing in. This app demonstrates handling very large numbers for credit balances.",
+  "requestFramePermissions": []
+}
